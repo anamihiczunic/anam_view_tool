@@ -1,6 +1,6 @@
 # AnamViewTool
 
-> Various view specific methods for the applications I use.
+> Various view specific methods for the applications I use
 ## Installation
 
 Add this line to your application's Gemfile:
