@@ -19,7 +19,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+AnamViewTool::Rendered.copyright 'Ana Mihic Zunic', 'All rights reserved'
+```
 
 ## Development
 
